@@ -1,3 +1,3 @@
 # probabilite-stat
 Tp1:
-https://mybinder.org/v2/gh/hajerdardouri/probabilite-stat/tree/main/hajer%20dardouri%20probabilite/main?filepath=TP1.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hajerdardouri/probabilite-stat/tree/main/hajer%20dardouri%20probabilite/master?filepath=TP1.ipynb)
